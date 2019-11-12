@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "name": "Tri",
+      "id": "z5lg9ALm"
+    },
+    {
+      "name": "Minh",
+      "id": "iaXLnp1v",
+      "email": "tripham9299@gmail.com",
+      "password": "202cb962ac59075b964b07152d234b70"
+    },
+    {
+      "name": "Pham",
+      "id": "pW4cx-pJ"
+    },
+    {
+      "name": "tri minh",
+      "id": "XenZ2Nf_"
+    },
+    {
+      "name": "tom",
+      "id": "C_NM-nTy",
+      "avatar": "uploads/1e183514e713971252cb605f3363fe6d"
+    }
+  ]
+}

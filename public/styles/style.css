@@ -6,7 +6,7 @@ a:hover{
 
 /*==head==*/
 .header{
- background-image: url("img/anhbia5.jpg");
+ background-image: url("/img/anhbia5.jpg");
   height:150px;
 }
 #logo{
@@ -60,7 +60,7 @@ a:hover{
   margin: 25px 70px 50px 75px;
 }
 #nendangnhap{
-  background-image: url("img/cumeo.jpg");
+  background-image: url("/img/cumeo.jpg");
 }
 .dangnhap{
   background-color: lightblue;
